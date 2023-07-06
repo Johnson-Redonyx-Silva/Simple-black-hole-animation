@@ -1,8 +1,9 @@
 # Simple-black-hole-animation 
 
 ## Preview is attached below
-![Example Image](https://drive.google.com/uc?export=view&id=13gp2FNeXbUSGVmG5lpOkjQ8n3YQf34JG)
-![Example Image](https://drive.google.com/uc?export=view&id=1yPtpLw-lgb2_PI2hroVpwcvbyOstWV5B)
+
+[![Click here to see the demo video](image_url)](https://drive.google.com/file/d/1yPtpLw-lgb2_PI2hroVpwcvbyOstWV5B/view?usp=drive_link)
+
 
 ## Explanation of Complete Code
 The code starts with the main() function, which runs the Flutter application by calling runApp() and passing an instance of MyApp.
