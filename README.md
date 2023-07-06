@@ -1,7 +1,7 @@
 # Simple-black-hole-animation 
 
 ## Preview is attached below
-[![Click to see the video ](preview.png)](https://drive.google.com/file/d/13gp2FNeXbUSGVmG5lpOkjQ8n3YQf34JG)
+[![Click to see the video ](https://drive.google.com/file/d/13gp2FNeXbUSGVmG5lpOkjQ8n3YQf34JG)
 ![Example Image](https://drive.google.com/uc?export=view&id=1yPtpLw-lgb2_PI2hroVpwcvbyOstWV5B)
 
 ## Explanation of Complete Code
