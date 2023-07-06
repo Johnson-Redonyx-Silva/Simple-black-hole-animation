@@ -1,5 +1,8 @@
 # Simple-black-hole-animation
 
+[![Preview](preview.png)](https://drive.google.com/file/d/13gp2FNeXbUSGVmG5lpOkjQ8n3YQf34JG/view?usp=sharing)
+
+
 The code starts with the main() function, which runs the Flutter application by calling runApp() and passing an instance of MyApp.
 
 MyApp is a stateless widget that defines the root of the application. It returns a MaterialApp with a home of CardHiddenAnimationPage, which represents the main page of the app.
